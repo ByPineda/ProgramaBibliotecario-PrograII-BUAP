@@ -1,0 +1,36 @@
+1001
+false
+Juego de tronos (Canción de Hielo y Fuego 1)
+3er
+George R. R. Martin
+Debolsillo
+1002
+true
+La Llamada de Cthulhu y Otros Relatos
+2a
+H.P. Lovecraft
+Colección fractales
+1003
+true
+Percy Jackson y los dioses del Olimpo: El Ladrón del rayo. Vol. 1
+1a
+Rick Riordan
+Salamandra
+1004
+true
+Jurassic Park: A Novel: 1
+2a
+Michael Crichton 
+Debolsillo
+1007
+true
+Berserk Deluxe Volume 3
+7a
+Kentaro Miura
+Dark Horse Manga
+1006
+true
+Nana n.1
+9a
+Ai Yazawa
+Panini
